@@ -4,7 +4,8 @@ Welcome to the **Number Guessing Game**! This is a simple console-based game whe
 
 ---
 ## URL
-[https://github.com/AjAyPaNcHaLDev/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
+https://roadmap.sh/projects/number-guessing-game
+
 ## Features
 
 - **Three Difficulty Levels:**
