@@ -3,7 +3,8 @@
 Welcome to the **Number Guessing Game**! This is a simple console-based game where the computer generates a random number, and you have to guess it within a limited number of attempts based on your chosen difficulty level.
 
 ---
-
+## URL
+https://github.com/AjAyPaNcHaLDev/number-guessing-game
 ## Features
 
 - **Three Difficulty Levels:**
